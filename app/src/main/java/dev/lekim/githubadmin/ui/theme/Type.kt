@@ -2,7 +2,6 @@ package dev.lekim.githubadmin.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.font.FontFamily
-
 import androidx.compose.ui.text.googlefonts.*
 import dev.lekim.githubadmin.R
 
@@ -21,7 +20,7 @@ val bodyFontFamily = FontFamily(
 
 val displayFontFamily = FontFamily(
     Font(
-        googleFont = GoogleFont("Rokkitt"),
+        googleFont = GoogleFont("Alatsi"),
         fontProvider = provider,
     )
 )

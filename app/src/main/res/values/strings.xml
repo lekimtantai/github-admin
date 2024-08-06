@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GitHubAdmin</string>
+    <string name="github_users">GitHub Users</string>
+    <string name="user_details">User Details</string>
+    <string name="user_avatar">Users\'s avatar</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="blog">Blog</string>
+    <string name="db_error_msg">I am a Database error message.</string>
 </resources>
